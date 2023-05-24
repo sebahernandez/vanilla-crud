@@ -1,0 +1,13 @@
+button {
+  margin: 10px;
+  background: white;
+  border: none;
+  padding: 16px 32px;
+  border-radius: 7px;
+}
+
+#current-page {
+  font-size: 1rem;
+  color: white;
+  margin: 0 10px;
+}
